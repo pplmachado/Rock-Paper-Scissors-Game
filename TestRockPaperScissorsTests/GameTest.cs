@@ -12,7 +12,7 @@ namespace TestRockPaperScissorsTests
             string[] playerOne = { "playerPaper", "P" };
             string[] playerTwo = { "playerRock", "R" };
 
-            var winner = new Match(playerOne, playerTwo).VerifyWinner();
+            var winner = new Match(playerOne, playerTwo).rps_game_winner();
 
             Assert.Equal(playerOne, winner);
         }
@@ -23,7 +23,7 @@ namespace TestRockPaperScissorsTests
             string[] playerOne = { "playerPaper", "P" };
             string[] playerTwo = { "playerScissors", "S" };
 
-            var winner = new Match(playerOne, playerTwo).VerifyWinner();
+            var winner = new Match(playerOne, playerTwo).rps_game_winner();
 
             Assert.Equal(playerTwo, winner);
         }
@@ -34,7 +34,7 @@ namespace TestRockPaperScissorsTests
             string[] playerOne = { "playerRock", "R" };
             string[] playerTwo = { "playerScissors", "S" };
 
-            var winner = new Match(playerOne, playerTwo).VerifyWinner();
+            var winner = new Match(playerOne, playerTwo).rps_game_winner();
 
             Assert.Equal(playerOne, winner);
         }

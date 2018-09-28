@@ -13,13 +13,16 @@ namespace TestRockPaperScissors
 
         public Match(string[] playerOne, string[] playerTwo)
         {
+            ValidateNumberOfPlayers(playerOne, playerTwo);
             this.playerOne = new Player(playerOne[0], playerOne[1]);
             this.playerTwo = new Player(playerTwo[0], playerTwo[1]);
         }
+
+
         private Player playerOne;
         private Player playerTwo;
 
-        public string[] VerifyWinner()
+        public string[] rps_game_winner()
         {
             if(playerOne.Act == MatchAct.Paper && playerTwo.Act == MatchAct.Rock || playerOne.Act == MatchAct.Paper && playerTwo.Act == MatchAct.Paper)
             {
@@ -44,6 +47,14 @@ namespace TestRockPaperScissors
             string[] winner = { $"{playerTwo.Name}", act };
 
             return winner;
+        }
+
+        private void ValidateNumberOfPlayers(string[] playerOne, string[] playerTwo)
+        {
+            if (playerOne.Length > 2 || playerTwo.Length > 2)
+            {
+                throw new WrongNumberOfPlayersError(" Wrong number of players: Error!");
+            }
         }
     }
 }

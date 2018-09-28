@@ -15,7 +15,7 @@ namespace TestRockPaperScissors
                 case MatchAct.Scissors:
                     return "S";
                 default:
-                    throw new ActException("Act is not valid.");
+                    throw new NoSuchStrategyError("Act is not valid.");
             }
         }
     }

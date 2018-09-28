@@ -40,7 +40,7 @@
                 case "S":
                     return MatchAct.Scissors;
                 default:
-                    throw new ActException("Act is not valid.");
+                    throw new NoSuchStrategyError("Act is not valid.");
             }
         }
     }
