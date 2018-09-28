@@ -1,0 +1,17 @@
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\TestRockPaperScissorsTests.deps.json
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\TestRockPaperScissorsTests.runtimeconfig.json
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\TestRockPaperScissorsTests.runtimeconfig.dev.json
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\TestRockPaperScissorsTests.dll
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\TestRockPaperScissorsTests.pdb
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\TestRockPaperScissors.dll
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\bin\Debug\netcoreapp2.1\TestRockPaperScissors.pdb
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\obj\Debug\netcoreapp2.1\TestRockPaperScissorsTests.csprojAssemblyReference.cache
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\obj\Debug\netcoreapp2.1\TestRockPaperScissorsTests.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\obj\Debug\netcoreapp2.1\TestRockPaperScissorsTests.AssemblyInfoInputs.cache
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\obj\Debug\netcoreapp2.1\TestRockPaperScissorsTests.AssemblyInfo.cs
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\obj\Debug\netcoreapp2.1\TestRockPaperScissorsTests.csproj.CopyComplete
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\obj\Debug\netcoreapp2.1\TestRockPaperScissorsTests.dll
+C:\Users\Patricia\source\repos\TestRockPaperScissors\TestRockPaperScissorsTests\obj\Debug\netcoreapp2.1\TestRockPaperScissorsTests.pdb
